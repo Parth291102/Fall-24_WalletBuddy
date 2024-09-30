@@ -76,11 +76,8 @@ We use this functionality where we can settle up the ammount what we owe to othe
 
 ---
 
-## Previous version
-This video is taken from the Project 1 of Group 18.
-https://user-images.githubusercontent.com/21088141/194785646-d05f864c-af1e-42f3-b7a1-b68aef4c8fa9.mp4
 
-## Updated version
+## Previous version
 
 OUR NEW VIDEO GOES HERE
 https://user-images.githubusercontent.com/54414375/205833191-c314e58c-16da-4c61-94e0-0fe60888c595.mp4
